@@ -15,5 +15,6 @@ Hari ini, Jumat 26 Desember 2025, saya belajar:
   <li>membuat styling untuk selector ID #contact</li>
   <li>membuat styling untuk selector ID #contact group</li>
   <li>membuat styling untuk selector ID #contact h2 group</li>
-  <li>section#contact upgrade struktur foem</li>
+  <li>section#contact upgrade struktur form</li>
+  <li>section#contact styling label</li>
 </ol>
