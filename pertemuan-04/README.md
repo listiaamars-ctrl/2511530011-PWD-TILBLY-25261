@@ -10,4 +10,5 @@ Hari ini, Jumat 26 Desember 2025, saya belajar:
     <li>ganti internal css ke eksternal css</li>
     <li>aturan css untuk body dan global reset</li>
     <li>styling header</li>
+    <li>styling section#home</li>
 </ol>

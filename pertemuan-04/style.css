@@ -31,6 +31,29 @@ header li a {
     padding: 6px 12px
 }
 
+#home,
+#about,
+#contact {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 700px;
+    margin: 20px auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+#home h2,
+#about h2,
+#contact h2 {
+    background-color: #f7c9c9;
+    border-bottom: 2px solid #f7c9c9;;
+    padding-bottom: 6px;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+#home p {
+    text-align: justify;
+}
+
         #about {
             background-color: #ffffff;
             border-radius: 10px;
