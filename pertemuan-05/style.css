@@ -105,6 +105,13 @@ header li a {
     background: rgba(255, 255, 255, 0.08);
     backdrop-filter: saturatw(120%);
 }
+        #home {
+            color: #650606;
+            border-bottom: 2px solid #650606;
+            padding-bottom: 6px;
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
 
         #about {
             background-color: #ffffff;
