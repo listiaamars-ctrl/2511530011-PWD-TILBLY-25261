@@ -19,6 +19,7 @@ require_once __DIR__ . '/fungsi.php';
     <button class="menu-toggle" id="menuToggle" aria-label="Toggle Navigation">
       &#9776;
     </button>
+    
     <nav>
       <ul>
         <li><a href="#home">Beranda</a></li>
